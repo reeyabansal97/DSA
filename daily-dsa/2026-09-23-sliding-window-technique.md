@@ -1,7 +1,5 @@
 # Day 4: Sliding Window Technique
 
-(Note: skipped a standalone "Two-Pointer" concept day since you've already solved 7 two-pointer problems hands-on — that's better teaching than a read-only article at this point. Moving to Sliding Window, which is the natural next technique and matches Section 3 of your arrays practice list.)
-
 ## What problem does it solve?
 
 Many problems ask you something like "find the best/longest/shortest **contiguous** chunk of an array or string that satisfies some condition" — e.g., the maximum sum of any 3 consecutive elements, or the shortest run of elements that adds up to at least some target. The brute-force approach checks every possible contiguous chunk, which is typically O(n²) or worse. The sliding window technique gets this down to O(n) by **reusing work from the previous window instead of recomputing from scratch.**
