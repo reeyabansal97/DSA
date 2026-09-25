@@ -9,3 +9,4 @@
 | 2026-09-22 | Strings: Fundamentals & Common Operations | [2026-09-22-strings-fundamentals.md](./2026-09-22-strings-fundamentals.md) |
 | 2026-09-23 | Sliding Window Technique | [2026-09-23-sliding-window-technique.md](./2026-09-23-sliding-window-technique.md) |
 | 2026-09-24 | Prefix Sum Technique | [2026-09-24-prefix-sum-technique.md](./2026-09-24-prefix-sum-technique.md) |
+| 2026-09-25 | Recursion Basics | [2026-09-25-recursion-basics.md](./2026-09-25-recursion-basics.md) |
