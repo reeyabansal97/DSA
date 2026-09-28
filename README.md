@@ -10,3 +10,5 @@
 | 2026-09-23 | Sliding Window Technique | [2026-09-23-sliding-window-technique.md](./2026-09-23-sliding-window-technique.md) |
 | 2026-09-24 | Prefix Sum Technique | [2026-09-24-prefix-sum-technique.md](./2026-09-24-prefix-sum-technique.md) |
 | 2026-09-25 | Recursion Basics | [2026-09-25-recursion-basics.md](./2026-09-25-recursion-basics.md) |
+| 2026-09-26 | Variable-Size Sliding Window | [2026-09-26-variable-size-sliding-window.md](./2026-09-26-variable-size-sliding-window.md) |
+| 2026-09-28 | Hashing & HashMap Fundamentals | [2026-09-28-hashing-hashmap-fundamentals.md](./2026-09-28-hashing-hashmap-fundamentals.md) |
