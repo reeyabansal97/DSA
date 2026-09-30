@@ -13,3 +13,4 @@
 | 2026-09-26 | Variable-Size Sliding Window | [2026-09-26-variable-size-sliding-window.md](./2026-09-26-variable-size-sliding-window.md) |
 | 2026-09-28 | Hashing & HashMap Fundamentals | [2026-09-28-hashing-hashmap-fundamentals.md](./2026-09-28-hashing-hashmap-fundamentals.md) |
 | 2026-09-29 | Linked Lists Fundamentals | [2026-09-29-linked-lists-fundamentals.md](./2026-09-29-linked-lists-fundamentals.md) |
+| 2026-09-30 | Stacks Fundamentals | [2026-09-30-stacks-fundamentals.md](./2026-09-30-stacks-fundamentals.md) |
