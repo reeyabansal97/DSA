@@ -15,3 +15,4 @@
 | 2026-09-29 | Linked Lists Fundamentals | [2026-09-29-linked-lists-fundamentals.md](./2026-09-29-linked-lists-fundamentals.md) |
 | 2026-09-30 | Stacks Fundamentals | [2026-09-30-stacks-fundamentals.md](./2026-09-30-stacks-fundamentals.md) |
 | 2026-10-01 | Queues Fundamentals | [2026-10-01-queues-fundamentals.md](./2026-10-01-queues-fundamentals.md) |
+| 2026-10-03 | Binary Search | [2026-10-03-binary-search.md](./2026-10-03-binary-search.md) |
